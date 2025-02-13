@@ -10,7 +10,7 @@ Co-fundador da **GLY Corporation** e **OrionTech**, empresas focadas no desenvol
 
 ### 📌 **Minhas Redes e Contato**
 🔹 [LinkedIn](https://www.linkedin.com/in/guilherme-rodrigues-998147268/)  
-🔹 [Instagram](https://www.instagram.com/guilhermerodrigues/)  
+🔹 [Instagram](https://www.instagram.com/_guilhermerodriguesf/)  
 📞 **Telefone (Brasil):** +55 53 99943-7775  
 
 ---
