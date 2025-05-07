@@ -39,11 +39,3 @@ Co-fundador da **GLY Corporation** e **OrionTech**, empresas focadas no desenvol
 
 🚀 **Sempre buscando aprender e inovar!** Vamos construir algo incrível juntos. 😃  
 💬 **Entre em contato e vamos conversar sobre ideias e projetos!**
-
-<div align="center">
-
-![Guiugirg GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiguirg&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiguirg&layout=compact&theme=tokyonight)
-
-</div>
-
